@@ -1,0 +1,26 @@
+html {
+    font-family: "Calibri";
+}
+
+header {
+    border-radius: 15px;
+    margin-left: 10px;
+    height: 100%;
+    width: 100%;
+    background-color: #cfcfcf;
+}
+header a {
+    margin-left: 10px;
+}
+
+body {
+    margin: 0;
+
+    justify-content: center;
+    border-radius: 10px;
+    background-color: #c0c0c0;
+}
+
+p {
+    color: #ffffff;
+}
